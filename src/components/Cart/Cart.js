@@ -1,10 +1,7 @@
-import { useContext } from "react";
-import ContextProvider from "../../store/ContextProvider";
 import Modal from "../UI/Modal";
 import classes from "./Cart.module.css";
 
 const Cart = (props) => {
-  const ctxCart = useContext(ContextProvider);
   const cartItems = (
     <ul className={classes["cart-items"]}>
       {[{ id: "m1", name: "Sushi", price: 12.99, amount: 2 }].map((item) => (
@@ -18,7 +15,7 @@ const Cart = (props) => {
       <div>{cartItems}</div>
       <div className={classes.total}>
         <span>Total Amount </span>
-        <span>{ctxCart}</span>
+        <span>2</span>
       </div>
       <div className={classes.actions}>
         <button className={classes["button--alt"]} onClick={props.onClose}>
