@@ -3,20 +3,20 @@ import Card from "../UI/Card";
 import MealItem from "./MealItem/MealItem";
 
 const DUMMY_MEALS = [
-  { id: "m1", name: "Pizza", price: 2, description: "Spicy and Cheesy" },
+  { id: "m1", name: "Pizza", price: 3.99, description: "Spicy and Cheesy" },
   {
     id: "m2",
     name: "Burger",
-    price: 4,
-    description: "Delicious ingredients",
+    price: 1.99,
+    description: "I'm lovin' it",
   },
   {
     id: "m3",
     name: "Sandwich",
-    price: 1.5,
+    price: 1.49,
     description: "love the way you bite",
   },
-  { id: "m4", name: "vanilla", price: 5, description: "creamy dream" },
+  { id: "m4", name: "Choco Lava", price: 1.19, description: "creamy dreamy" },
 ];
 
 const AvailableMeals = () => {

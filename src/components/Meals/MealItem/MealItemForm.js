@@ -12,7 +12,7 @@ const MealItemForm = (props) => {
     const enteredAmoutNumber = +enteredAmout;
 
     if (
-      enteredAmoutNumber.trim().length === 0 ||
+      enteredAmout.trim().length === 0 ||
       enteredAmoutNumber < 1 ||
       enteredAmoutNumber > 5
     ) {
