@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # rahulblu.github.io
 
 =======
@@ -29,3 +30,6 @@ Features of this app are:
 Please check out this app by clicking on the link below:
 https://rahulblu.github.io
 >>>>>>> 10dff0655f6bca35ed44f7c273397242d45a6831
+=======
+
+>>>>>>> 10006b21b90c14d908d394968c1aef166d41c84c
