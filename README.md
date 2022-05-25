@@ -1,5 +1,3 @@
-# rahulblu.github.io
-
 This is a simple food ordering app. Features of this app are:
 
 * user can select number of items to add in the cart.
