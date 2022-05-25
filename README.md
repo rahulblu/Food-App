@@ -7,3 +7,6 @@ Features of this app are:
 * user can fill the address form.
 * basic validation in the cart checkout form.
 * stores the address data of users ont the firebase server.
+
+Please check out this app by clicking on the link below:
+https://rahulblu.github.io
