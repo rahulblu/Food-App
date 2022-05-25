@@ -1,6 +1,6 @@
 # 
 This is a simple food ordering app.
-features of this app is:
+features of this app are:
 * user can select number of items to add in the cart.
 * user can add or remove items from the cart.
 * it can calculate the total amount based upon the number of items in the cart.
