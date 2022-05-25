@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rahulblu.github.io
 
 This is a simple food ordering app. Features of this app are:
@@ -8,3 +9,6 @@ This is a simple food ordering app. Features of this app are:
 * user can fill the address form.
 * basic validation in the cart checkout form.
 * stores the address data of users ont the firebase server.
+=======
+# 
+>>>>>>> master
