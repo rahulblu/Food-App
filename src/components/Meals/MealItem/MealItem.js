@@ -13,8 +13,8 @@ const MealItem = (props) => {
       price: props.price,
       amount: amount,
     });
+    console.log(props.price);
   };
-
   return (
     <li className={classes.meal}>
       <div>
