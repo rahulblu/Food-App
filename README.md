@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# rahulblu.github.io
-
-=======
->>>>>>> a334d9f21e7c555a4c88d5e798c0be6a1cb5ddee
 This is a simple food ordering app. Features of this app are:
 
 * user can select number of items to add in the cart.
@@ -29,7 +22,3 @@ Features of this app are:
 
 Please check out this app by clicking on the link below:
 https://rahulblu.github.io
->>>>>>> 10dff0655f6bca35ed44f7c273397242d45a6831
-=======
-
->>>>>>> 10006b21b90c14d908d394968c1aef166d41c84c
