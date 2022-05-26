@@ -102,7 +102,11 @@ const Cart = (props) => {
   return (
     <Modal onHideCart={props.onClose}>
       {!submittingData && !isSubmitted && cartItemsModal}
-      {submittingData && !isSubmitted && <h4>Sending your order request</h4>}
+      {submittingData && !isSubmitted && (
+        <h4 style={{ color: "blue", textAlign: "center" }}>
+          Sending your order request
+        </h4>
+      )}
       {!submittingData && isSubmitted && didSubmitModal}
     </Modal>
   );
